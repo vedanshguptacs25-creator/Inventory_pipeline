@@ -1,0 +1,142 @@
+[
+    {
+        "sku": "P100",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 1.0
+    },
+    {
+        "sku": "P101",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 0.5
+    },
+    {
+        "sku": "P102",
+        "restock_qty": 60,
+        "urgency": "High",
+        "stockout_date": "2026-04-22",
+        "priority_score": 0.0
+    },
+    {
+        "sku": "P103",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 2.0
+    },
+    {
+        "sku": "P104",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 1.5
+    },
+    {
+        "sku": "P105",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-03",
+        "priority_score": 0.6124999999999999
+    },
+    {
+        "sku": "P106",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 0.6000000000000001
+    },
+    {
+        "sku": "P107",
+        "restock_qty": 10,
+        "urgency": "Low",
+        "stockout_date": "2026-04-29",
+        "priority_score": 0.5333333333333333
+    },
+    {
+        "sku": "P108",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 1.2000000000000002
+    },
+    {
+        "sku": "P109",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 0.9
+    },
+    {
+        "sku": "P110",
+        "restock_qty": 20,
+        "urgency": "Medium",
+        "stockout_date": "2026-04-27",
+        "priority_score": 0.4
+    },
+    {
+        "sku": "P111",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-04",
+        "priority_score": 0.48
+    },
+    {
+        "sku": "P112",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-03",
+        "priority_score": 0.4545454545454546
+    },
+    {
+        "sku": "P113",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-05",
+        "priority_score": 0.22499999999999998
+    },
+    {
+        "sku": "P114",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 1.8
+    },
+    {
+        "sku": "P115",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 1.6
+    },
+    {
+        "sku": "P116",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 0.7000000000000001
+    },
+    {
+        "sku": "P117",
+        "restock_qty": 5,
+        "urgency": "Low",
+        "stockout_date": "2026-05-04",
+        "priority_score": 0.16
+    },
+    {
+        "sku": "P118",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 1.1
+    },
+    {
+        "sku": "P119",
+        "restock_qty": 0,
+        "urgency": "Low",
+        "stockout_date": "2026-05-02",
+        "priority_score": 0.8526315789473684
+    }
+]
